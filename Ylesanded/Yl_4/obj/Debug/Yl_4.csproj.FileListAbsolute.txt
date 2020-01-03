@@ -1,0 +1,6 @@
+E:\Ennu-PC\Documents\C#\Ylesanded\Ylesanded\Yl_4\obj\Debug\Yl_4.csprojAssemblyReference.cache
+E:\Ennu-PC\Documents\C#\Ylesanded\Ylesanded\Yl_4\bin\Debug\Yl_4.exe.config
+E:\Ennu-PC\Documents\C#\Ylesanded\Ylesanded\Yl_4\bin\Debug\Yl_4.exe
+E:\Ennu-PC\Documents\C#\Ylesanded\Ylesanded\Yl_4\bin\Debug\Yl_4.pdb
+E:\Ennu-PC\Documents\C#\Ylesanded\Ylesanded\Yl_4\obj\Debug\Yl_4.exe
+E:\Ennu-PC\Documents\C#\Ylesanded\Ylesanded\Yl_4\obj\Debug\Yl_4.pdb

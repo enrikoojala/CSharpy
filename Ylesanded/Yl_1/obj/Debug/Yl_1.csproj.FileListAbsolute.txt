@@ -1,0 +1,12 @@
+F:\Documents\C#\Ylesanded\Ylesanded\Yl_1\bin\Debug\Yl_1.exe.config
+F:\Documents\C#\Ylesanded\Ylesanded\Yl_1\bin\Debug\Yl_1.exe
+F:\Documents\C#\Ylesanded\Ylesanded\Yl_1\bin\Debug\Yl_1.pdb
+F:\Documents\C#\Ylesanded\Ylesanded\Yl_1\obj\Debug\Yl_1.csprojAssemblyReference.cache
+F:\Documents\C#\Ylesanded\Ylesanded\Yl_1\obj\Debug\Yl_1.exe
+F:\Documents\C#\Ylesanded\Ylesanded\Yl_1\obj\Debug\Yl_1.pdb
+E:\Ennu-PC\Documents\C#\Ylesanded\Ylesanded\Yl_1\bin\Debug\Yl_1.exe.config
+E:\Ennu-PC\Documents\C#\Ylesanded\Ylesanded\Yl_1\bin\Debug\Yl_1.exe
+E:\Ennu-PC\Documents\C#\Ylesanded\Ylesanded\Yl_1\bin\Debug\Yl_1.pdb
+E:\Ennu-PC\Documents\C#\Ylesanded\Ylesanded\Yl_1\obj\Debug\Yl_1.csprojAssemblyReference.cache
+E:\Ennu-PC\Documents\C#\Ylesanded\Ylesanded\Yl_1\obj\Debug\Yl_1.exe
+E:\Ennu-PC\Documents\C#\Ylesanded\Ylesanded\Yl_1\obj\Debug\Yl_1.pdb
